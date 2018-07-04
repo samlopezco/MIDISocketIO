@@ -1,0 +1,24 @@
+{
+  "name": "midisocketserver",
+  "version": "0.0.1",
+  "description": "Take Messages from a client using socket.io and output midi into a DAW / Sequencer.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therustysp0rk/MIDIControllerABleton.git"
+  },
+  "keywords": [
+    "Ableton",
+    "MIDI",
+    "Socket"
+  ],
+  "author": "Sam Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therustysp0rk/MIDIControllerABleton/issues"
+  },
+  "homepage": "https://github.com/therustysp0rk/MIDIControllerABleton#readme"
+}
